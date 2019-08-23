@@ -16,7 +16,7 @@ That's the basic idea, but You must read through the entire Terms of Service bel
 
 ### Reuse
 
-This document is an adaptation of the [Heroku Terms of Service](http://legal.heroku.com/tos), which is turn an adaptation of the [Google App Engine Terms of Service](http://code.google.com/appengine/terms.html). The original work has been modified with permission under the [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/). Neither Heroku, Inc. nor Google, Inc. is not connected with and does not sponsor or endorse Shone or its use of the work.
+This document is an adaptation of the [Heroku Terms of Service](http://legal.heroku.com/tos), which is turn an adaptation of the [Google App Engine Terms of Service](http://code.google.com/appengine/terms.html). The original work has been modified with permission under the [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/). Neither Heroku, Inc. nor Google, Inc. is connected with Shone and does not sponsor or endorse Shone or its use of the work.
 
 You're welcome to adapt and use this document for your own needs. If you make an improvement, we'd appreciate it if you would let us know so we can consider improving our own document.
 
