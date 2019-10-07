@@ -9,3 +9,8 @@ We provide realtime communication channels between the crew and the shore to avo
 ### How much does Shone IRIS cost?
 
 Shone IRIS is provided free of charge for all Palaimon equipped vessels/
+
+### I have a question about how to use the app ?
+
+You can start by watching this tutorial video:
+https://drive.google.com/open?id=1n8ZrSsn5ZcGn44_wHVm2WVNJiWZuddTs
