@@ -15,6 +15,9 @@ It is built for the browser, so you can use it across any platform or device, an
 You can start by watching this tutorial video:
 https://drive.google.com/open?id=1n8ZrSsn5ZcGn44_wHVm2WVNJiWZuddTs
 
+We also have a printable pdf guide accessible here:
+https://www.notion.so/shone/Shone-User-Guide-print-e92953d41c474e89aa9d885a9be735eb
+
 
 ### What data has the company access to? 
 
